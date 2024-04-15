@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/?size=512&id=55494&format=png" width="100" />
 </p>
 <p align="center">
-    <h1 align="center">My Mentor</h1>
+    <h1 align="center">My Mentor App</h1>
 </p>
 <p align="center">
     <em>HTTP error 429 for prompt `slogan`</em>
