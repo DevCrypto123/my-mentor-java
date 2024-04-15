@@ -56,31 +56,6 @@ HTTP error 429 for prompt `features`
 
 ```sh
 └── my-mentor-java/
-    ├── mentorship-program-photos
-    │   ├── 12
-    │   │   └── IMG_20210205_172310.jpg
-    │   ├── 13
-    │   │   └── quote.jpg
-    │   ├── 14
-    │   │   └── Untitled.png
-    │   ├── 17
-    │   ├── 18
-    │   │   └── quote.jpg
-    │   ├── 19
-    │   │   └── Untitled.png
-    │   ├── 6
-    │   │   └── Untitled.png
-    │   ├── 76
-    │   │   └── Untitled.png
-    │   ├── 77
-    │   │   └── Untitled.png
-    │   ├── 78
-    │   └── null
-    │       ├── quote-final.jpg
-    │       └── quote.jpg
-    ├── mvnw
-    ├── mvnw.cmd
-    ├── pom.xml
     └── src
         ├── main
         │   ├── java
